@@ -1,12 +1,14 @@
 <div align="center">
-    <img width="120" src="/logo.png"></img>
+    <img width="150" src="/logo.png"></img>
 </div>
 <h1 align="center">万物工具箱</h1>
-
+<h4 align="center">一款好用的工具箱</h4>
 <div align="center">
 
-![下载](https://img.shields.io/github/downloads/ELFTS/wwgjx/total?style=flat-square&color=00adef)
-![版本](https://img.shields.io/github/v/release/ELFTS/wwgjx?style=flat-square&color=9ED604)
+![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/wwgjx/total)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ELFTS/wwgjx)
+![GitHub Repo stars](https://img.shields.io/github/stars/ELFTS/wwgjx)
 
 </div>
 
