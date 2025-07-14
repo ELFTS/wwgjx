@@ -1,9 +1,15 @@
 <div align="center">
-    <img width="75" src="/logo.png"></img>
+    <img width="120" src="/logo.png"></img>
+</div>
+<h1 align="center">万物工具箱</h1>
+
+<div align="center">
+
+![下载](https://img.shields.io/github/downloads/ELFTS/wwgjx/total?style=flat-square&color=00adef)
+![版本](https://img.shields.io/github/v/release/ELFTS/wwgjx?style=flat-square&color=9ED604)
+
 </div>
 
-# 万物工具箱
-这个是工具箱版本发布、工具箱问题反馈的网址，如果大家有什么疑问，请及时反馈！
 # QQ交流群957042500
 这里是我们万物永存技术工作室的交流群，欢迎大家来唠嗑唠嗑～
 # 关于诽谤者
