@@ -5,7 +5,7 @@ labels: [ "bug" ]
 body:
     -   type: markdown
         attributes:
-            value: "# TouchController bug 报告"
+            value: "# 万物工具箱 bug 报告"
     -   type: checkboxes
         id: bug_check
         attributes:
