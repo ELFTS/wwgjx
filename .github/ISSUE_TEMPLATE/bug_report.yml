@@ -33,7 +33,7 @@ body:
                 - Windows 8.1
                 - Windows 10
                 - Windows 11
-            default: 1
+            default: 4
         validations:
             required: true
     -   type: input
