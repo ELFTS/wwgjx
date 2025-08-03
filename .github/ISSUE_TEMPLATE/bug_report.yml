@@ -57,4 +57,4 @@ body:
             required: true
     -   type: markdown
         attributes:
-            value: "### 感谢您对 TouchController 的支持！"
+            value: "### 感谢您对万物工具箱的支持！"
