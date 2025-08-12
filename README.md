@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">万物工具箱</h1>
 <h4 align="center">一款好用的工具箱</h4>
-<h4 align="center">支持 WindowsXP、Vista、7、8、8.1、10、11</h4>
+<h4 align="center">支持 Windows XP、Vista、7、8、8.1、10、11</h4>
 <div align="center">
 
 ![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx?label=最新正式版)
