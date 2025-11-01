@@ -6,10 +6,10 @@
 <h4 align="center">支持 Windows XP、Vista、7、8、8.1、10、11、12</h4>
 <div align="center">
 
-![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx?label=版本)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/wwgjx/total?label=总下载量)
-[![Stars](https://img.shields.io/github/stars/ELFTS/wwgjx?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiIGZpbGw9IiNlYWM1NGYiLz48L3N2Zz4=&logoSize=auto&label=收藏)](https://github.com/ELFTS/wwgjx/)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ELFTS/wwgjx?label=问题)
+[![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx?label=版本)](https://github.com/ELFTS/wwgjx/releases)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/wwgjx/total?label=总下载量)](https://github.com/ELFTS/wwgjx/releases)
+[![Stars](https://img.shields.io/github/stars/ELFTS/wwgjx?style=flat&label=收藏)](https://github.com/ELFTS/wwgjx/stargazers)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ELFTS/wwgjx?label=问题)](https://github.com/ELFTS/wwgjx/issues)
 
 </div>
 
@@ -19,11 +19,6 @@
 这里是我们万物永存技术工作室的交流群，欢迎大家来唠嗑唠嗑～
 ## ℹ️ 关于诽谤者
 在此我善提菩提本体陈铠还有澜芸本体联合声明一下：我们有权不开源任何项目，除非经过允许，如今科技圈环境越来越差，难道你们忍心干着道德绑架的事情吗？之前我善提菩提也曾因为被诽谤万物工具箱下毒的问题去我们揭阳市新兴派出所报警过，但当时几个人他们并没有把我放在眼里，甚至连提供一下维权途径都是让我自己去想办法！这是一个派出所的警察会有的样子吗？
-
-## 📥 下载说明
-
-[Green]() 指绿色版
-[Setup]() 指安装版
 
 ## 🚀 安装
 - 请卸载旧版本后安装最新版本~
