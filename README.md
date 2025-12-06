@@ -6,7 +6,7 @@
 <h4 align="center">支持 Windows XP、Vista、7、8、8.1、10、11、12</h4>
 <div align="center">
 
-[![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx?label=版本)](https://github.com/ELFTS/wwgjx/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx?label=正式版)](https://github.com/ELFTS/wwgjx/releases/latest)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/wwgjx/total?label=总下载量)](https://github.com/ELFTS/wwgjx/releases)
 [![Stars](https://img.shields.io/github/stars/ELFTS/wwgjx?style=flat&label=收藏)](https://github.com/ELFTS/wwgjx/stargazers)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ELFTS/wwgjx?label=问题)](https://github.com/ELFTS/wwgjx/issues)
