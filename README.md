@@ -63,6 +63,29 @@
 | [EXUI](https://exuik.com/)                                  | 界面主框架  |
 | [图吧工具箱硬件检测引擎](https://www.tbtool.cn/sdk/index.html)| 硬件信息获取|
 
+## 赞助
+
+如果这个项目对你有帮助，欢迎赞助支持！
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/a7daa815-b629-4045-8fc3-6ae8fda152a4" width="200" alt="微信支付"/>
+        <br/>
+        <sub>微信支付</sub>
+      </td>
+      <td width="50"></td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/f9765ddc-03b9-4cb6-9ae8-ac2e9d7aeb46" width="200" alt="支付宝"/>
+        <br/>
+        <sub>支付宝</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 ## 🌟 Star
 支持开发者的最简单方式是点击页面顶部的星标（⭐）
 
@@ -71,3 +94,7 @@
         <img alt="start" width=50% src="https://api.star-history.com/svg?repos=ELFTS/wwgjx&Date"/>
     </a>
 </p>
+
+---
+
+**Copyright © 2021-2026 万物永存技术工作室**
